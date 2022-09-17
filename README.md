@@ -1,2 +1,2 @@
-# Profect-1
+# Project-1
 My first project in web developing
